@@ -46,10 +46,6 @@ The simulation is built around agents, not buildings.
 
 - [Project Introduction](devlog/2026-04-10-project-introduction.md)
 
-## Technical Notes
-
-- [Simulation Architecture](tech/simulation-architecture.md)
-
 ---
 
 Work in progress. Focused on systems first, polish later.

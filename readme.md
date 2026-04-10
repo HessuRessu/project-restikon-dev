@@ -13,10 +13,6 @@ This repository contains development logs and technical notes for a colony simul
 
 - [Project Introduction](devlog/2026-04-10-project-introduction.md)
 
-## Technical Notes
-
-- [Simulation Architecture](tech/simulation-architecture.md)
-
 ## Media
 
 See /media for screenshots and visual material.

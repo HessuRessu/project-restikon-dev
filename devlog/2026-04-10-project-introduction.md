@@ -7,7 +7,7 @@ Restikon Reborn is a large-scale village builder / colony simulation project, wh
 
 At its core, the project explores a simple idea: a settlement exists because its people act. **Villagers** gather resources, carry them through the world, store them, and use them to build and survive. If those chains break - if food is not delivered, if firewood is not hauled, if storage fills up - then the settlement collapses. Nothing is implied; systems only work when agents make them work and the player is responsible for keeping the system together.
 
-![Agent behaviour](../media/gui/2026-04-10-gui-1.png)
+![Agent behaviour](../media/gui/2026-04-10-GUI-1.png)
 
 ![Spring harvesting closeup](../media/closeup/2026-04-10-Spring-Closeup-2.png)
 
@@ -17,11 +17,11 @@ At its core, the project explores a simple idea: a settlement exists because its
 
 **Expansion** is crucial, territories (or biomes) are different. For example, while one territory is fertile and ideal for producing food, other offers valuable minerals yet lacks any chance of producing food. This presents a challenge and a possibility - logistics and storage must be orchestrated to support settlement expansion. The settlement is not just a single village but a network of territorial hubs connected via logistics and need-based resource exchange.
 
-![Builder menu](../media/gui/2026-04-10-gui-2.png)
+![Builder menu](../media/gui/2026-04-10-GUI-2.png)
 
 **Seasons** play a central role in the game. They are not just visual changes, but shifts in how the village operates. Availability of resources, movement patterns, and survival pressure evolve over time, forcing the settlement to adapt or fail.
 
-![Seasons](../media/seasons/2026-04-10-Seasons-2.png)
+![Seasons](../media/seasons/2026-04-10-Seasons-1.png)
 
 ![Winter closeup](../media/closeup/2026-04-10-Winter-Closeup-1.png)
 
